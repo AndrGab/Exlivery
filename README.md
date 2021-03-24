@@ -10,7 +10,7 @@ Aplicação de teste para uma API de delivery, onde é possível:
 - Consultar os cadastros realizados
 - Gerar um relatório (Arquivo .csv) com as informações dos pedidos.
 
-Todas as rotinas criadas são comtempladas com testes automatizados.
+Todas as rotinas criadas são contempladas com testes automatizados.
 
 ## Tech utizadas
 
